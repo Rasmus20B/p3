@@ -1,0 +1,9 @@
+[submodule "deps/jcast"]
+	path = deps/jcast
+	url = https://github.com/rasmus20b/jcast
+[submodule "deps/ecstasy"]
+	path = deps/ecstasy
+	url = https://github.com/rasmus20b/ecstasy
+[submodule "deps/raylib"]
+	path = deps/raylib
+	url = https://github.com/raysan5/raylib
